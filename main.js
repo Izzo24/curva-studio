@@ -1,4 +1,4 @@
-/* 曲木製作所 CURVA — 共用互動腳本 */
+/* 曲彎製作所 QUVAN — 共用互動腳本 */
 (function(){
   // 行動選單
   var toggle=document.querySelector('.nav-toggle');
